@@ -1,0 +1,32 @@
+@import 'variables';
+
+h1{
+   color: $color;
+}
+h2{
+    color: $color2
+}
+
+.checkbox-select-all-options{
+    width: 160px;
+    margin: 0 12px;
+}
+.formatIMG{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.formatLogo{
+    width: 50px;
+    height: 50px;
+    border-radius: 20%;
+}
+.text-dark{
+    color: #212529;
+}
+a{
+    color: #212529;
+}
+a:hover{
+    text-decoration: none;
+}
